@@ -1,10 +1,6 @@
 # Eventrise Platform
 An all-inclusive space for communities to organize and partake in events.
 
-Team Details:
-1. Anudeep Billa
-2. Yaswanth Mareedu
-
 
 # Dive into Create React App
 
